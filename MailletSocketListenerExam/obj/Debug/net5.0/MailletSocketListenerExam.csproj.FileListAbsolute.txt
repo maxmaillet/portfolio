@@ -1,0 +1,16 @@
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.exe
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.deps.json
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.runtimeconfig.json
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.runtimeconfig.dev.json
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.dll
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\ref\MailletSocketListenerExam.dll
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\bin\Debug\net5.0\MailletSocketListenerExam.pdb
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.csproj.AssemblyReference.cache
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.AssemblyInfoInputs.cache
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.AssemblyInfo.cs
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.csproj.CoreCompileInputs.cache
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.dll
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\ref\MailletSocketListenerExam.dll
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.pdb
+C:\NBCC\Networking\Assignments\MailletSocketListenerExam\obj\Debug\net5.0\MailletSocketListenerExam.genruntimeconfig.cache

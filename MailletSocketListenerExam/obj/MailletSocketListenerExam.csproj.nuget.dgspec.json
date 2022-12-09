@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NBCC\\OLD\\2021-03\\Networking\\Assignments\\MailletFinalExam\\MailletFinalExam.csproj": {}
+    "C:\\Users\\maxma\\Documents\\GitHub\\portfolio\\MailletSocketListenerExam\\MailletSocketListenerExam.csproj": {}
   },
   "projects": {
-    "C:\\NBCC\\OLD\\2021-03\\Networking\\Assignments\\MailletFinalExam\\MailletFinalExam.csproj": {
+    "C:\\Users\\maxma\\Documents\\GitHub\\portfolio\\MailletSocketListenerExam\\MailletSocketListenerExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NBCC\\OLD\\2021-03\\Networking\\Assignments\\MailletFinalExam\\MailletFinalExam.csproj",
-        "projectName": "MailletFinalExam",
-        "projectPath": "C:\\NBCC\\OLD\\2021-03\\Networking\\Assignments\\MailletFinalExam\\MailletFinalExam.csproj",
+        "projectUniqueName": "C:\\Users\\maxma\\Documents\\GitHub\\portfolio\\MailletSocketListenerExam\\MailletSocketListenerExam.csproj",
+        "projectName": "MailletSocketListenerExam",
+        "projectPath": "C:\\Users\\maxma\\Documents\\GitHub\\portfolio\\MailletSocketListenerExam\\MailletSocketListenerExam.csproj",
         "packagesPath": "C:\\Users\\maxma\\.nuget\\packages\\",
-        "outputPath": "C:\\NBCC\\OLD\\2021-03\\Networking\\Assignments\\MailletFinalExam\\obj\\",
+        "outputPath": "C:\\Users\\maxma\\Documents\\GitHub\\portfolio\\MailletSocketListenerExam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

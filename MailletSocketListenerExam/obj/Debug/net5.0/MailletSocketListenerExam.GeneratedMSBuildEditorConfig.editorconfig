@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = MailletFinalExam
-build_property.ProjectDir = C:\NBCC\OLD\2021-03\Networking\Assignments\MailletFinalExam\
+build_property.RootNamespace = MailletSocketListenerExam
+build_property.ProjectDir = C:\Users\maxma\Documents\GitHub\portfolio\MailletSocketListenerExam\
