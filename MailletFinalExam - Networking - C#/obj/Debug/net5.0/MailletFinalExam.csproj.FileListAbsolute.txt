@@ -1,0 +1,16 @@
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.exe
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.deps.json
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.runtimeconfig.json
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.runtimeconfig.dev.json
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.dll
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\ref\MailletFinalExam.dll
+C:\NBCC\Networking\Assignments\MailletFinalExam\bin\Debug\net5.0\MailletFinalExam.pdb
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.csproj.AssemblyReference.cache
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.AssemblyInfoInputs.cache
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.AssemblyInfo.cs
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.csproj.CoreCompileInputs.cache
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.dll
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\ref\MailletFinalExam.dll
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.pdb
+C:\NBCC\Networking\Assignments\MailletFinalExam\obj\Debug\net5.0\MailletFinalExam.genruntimeconfig.cache

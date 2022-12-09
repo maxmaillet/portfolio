@@ -1,0 +1,21 @@
+{
+  "name": "a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MenuItem.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json"
+  },
+  "author": "S.Monk",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "docdash": "^1.2.0",
+    "mocha": "^10.0.0",
+    "mongodb": "^4.5.0"
+  }
+}

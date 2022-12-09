@@ -1,0 +1,6 @@
+#URL mapping for REST API Demo
+#Note: "NC" means case insensitive
+RewriteEngine on
+
+RewriteRule ^albums$ api/albumService.php [NC]
+#RewriteRule ^albums/([0-9]+)$ api/albumService.php?id=$1 [NC]

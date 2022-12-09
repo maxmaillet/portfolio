@@ -1,0 +1,6 @@
+.selected {
+    background-color: green;
+}
+.selected td {
+    color: white;
+}

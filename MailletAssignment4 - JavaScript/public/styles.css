@@ -1,0 +1,16 @@
+h1,
+table {
+  text-align: center;
+}
+tbody tr :nth-child(3) {
+  text-align: left;
+}
+.inputControl {
+  margin: 10px 0 10px 10px;
+}
+label {
+  width: 100px;
+}
+button {
+  margin: 0 0 0 10px;
+}
